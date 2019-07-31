@@ -11,7 +11,6 @@ class ChattyStudent < Student
     puts "Pick me!"
     super
     9.times { puts "Pick me!" }
-    end
   end
 
   end
